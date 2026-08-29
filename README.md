@@ -44,6 +44,18 @@
 
 <br/>
 
+### 🚀 Selected Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Local Code Assistant](https://github.com/Bekon0700/coding-support-local-ai-agent)** | Offline RAG + ReAct agent that answers questions about a codebase — hand-written agent loop, vector search, persistent memory, all local via Ollama | LangChain · LangGraph · ChromaDB · Ollama |
+| **[Blarity](https://github.com/Bekon0700/blarity)** | Microsoft Clarity–style session recorder — embeddable rrweb tracker, batched event ingestion, and a replay dashboard | NestJS · MongoDB · React · rrweb |
+| **[TaskCollab](https://github.com/Bekon0700/elite-alumni-ph-task)** ([demo](https://elite-task.netlify.app/)) | Project & task collaboration app with role-based access, activity tracking, and analytics | Next.js 16 · Auth.js v5 · MongoDB · shadcn/ui |
+| **[Interview Question Bank](https://github.com/Bekon0700/interview-questions)** | CV-tailored full-stack interview prep vault (React, Next.js, Node, system design) | Obsidian · Markdown |
+| **[NestJS Microservices](https://github.com/Bekon0700/nestjs-microservice)** | Monorepo microservices sample — auth + reservations services with a shared common lib | NestJS · MongoDB · Docker |
+
+<br/>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
