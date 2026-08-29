@@ -83,8 +83,6 @@
 
 <img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/tokyonight/4-productive-time.svg" />
 
-<img src="https://streak-stats.demolab.com/?user=Bekon0700&theme=tokyonight&hide_border=true" />
-
 </div>
 
 > Stat cards are generated daily by the GitHub Action in `.github/workflows/profile-summary.yml` and served from the `profile-summary` branch — no third-party uptime dependency. They appear after the workflow's first run.
