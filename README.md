@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/tokyonight/3-stats.svg" />
 
-<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/tokyonight/2-most-commit-language.svg" />
 
-<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/tokyonight/4-productive-time.svg" />
 
 <img src="https://streak-stats.demolab.com/?user=Bekon0700&theme=tokyonight&hide_border=true" />
 

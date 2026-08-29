@@ -25,7 +25,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Bekon0700
-          BRANCH_NAME: "profile-summary"
           UTC_OFFSET: 6 # Bangladesh (UTC+6) — drives the "productive time" card
           THEME: "tokyonight"
-          AUTO_PUSH: true
+          AUTO_PUSH: false # we push the output ourselves in the next step
+
+      - name: Push the generated cards to the profile-summary branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
