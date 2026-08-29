@@ -15,8 +15,11 @@
 - 💼 Software Engineer at **[Rokomari.com](https://www.rokomari.com/)** — Bangladesh's largest online bookstore & e-commerce platform, 3.5+ years and counting
 - 🚀 Started as a frontend fresher, grew into full-stack — now leading backend systems and the Next.js migration
 - 🖥️ Daily stack: **Next.js**, **React**, **NestJS**, **MongoDB**, **Redis**, **RabbitMQ**, **Docker**
+- 🤖 Deep into **LLMs** and **RAG** — building retrieval pipelines, embeddings + vector search, prompt/context engineering, and agentic workflows on top of app data
+- 🧠 Exploring **Machine Learning** more broadly — model fine-tuning, evaluation, and shipping ML features into real products
+- ⚙️ Big believer in **AI-assisted engineering** — LLM-powered automation, chat/bot layers, and tooling that makes teams faster
 - 🎓 B.Sc. in Computer Science Engineering — Bangladesh University of Business and Technology (BUBT)
-- 📚 Maintainer of [interview-questions](https://github.com/Bekon0700/interview-questions) — an interview prep resource
+<!-- - 📚 Maintainer of [interview-questions](https://github.com/Bekon0700/interview-questions) — an interview prep resource -->
 - 📫 Reach me at **bekon1700@gmail.com**
 
 <br/>
@@ -56,6 +59,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
