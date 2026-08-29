@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Bekon0700
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#2f81f7&color_dots=#ebedf0,#9ec5ff,#58a6ff,#2f81f7,#1f6feb
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#58a6ff&color_dots=#161b22,#0a2647,#144272,#2f81f7,#58a6ff
 
       - name: Push the generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v4

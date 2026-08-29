@@ -14,6 +14,9 @@
 
 - 💼 Software Engineer at **[Rokomari.com](https://www.rokomari.com/)** — Bangladesh's largest online bookstore & e-commerce platform, 3.5+ years and counting
 - 🚀 Started as a frontend fresher, grew into full-stack — now leading backend systems and the Next.js migration
+- 🛒 Bootstrapped the **Rokomari Affiliate** platform from scratch (NestJS, RabbitMQ, MongoDB) — grew it to **100K+ affiliates**, 600+ daily orders, and a **13% sales lift**
+- ⚡ Led the **Next.js migration** off a legacy jQuery frontend — cut Docker images **2.1GB → 170MB** and page loads **11s → 3s**
+- 💬 Built **Rokomari WebChat** on NestJS + Crisp with an automated bot-reply layer, reaching 78% customer satisfaction
 - 🖥️ Daily stack: **Next.js**, **React**, **NestJS**, **MongoDB**, **Redis**, **RabbitMQ**, **Docker**
 - 🤖 Deep into **LLMs** and **RAG** — building retrieval pipelines, embeddings + vector search, prompt/context engineering, and agentic workflows on top of app data
 - 🧠 Exploring **Machine Learning** more broadly — model fine-tuning, evaluation, and shipping ML features into real products
@@ -21,26 +24,6 @@
 - 🎓 B.Sc. in Computer Science Engineering — Bangladesh University of Business and Technology (BUBT)
 <!-- - 📚 Maintainer of [interview-questions](https://github.com/Bekon0700/interview-questions) — an interview prep resource -->
 - 📫 Reach me at **bekon1700@gmail.com**
-
-<br/>
-
-### 💥 Career Highlights
-
-<table>
-<tr>
-<td align="center"><b>100,000+</b><br/>affiliates managed</td>
-<td align="center"><b>13%</b><br/>sales increase driven</td>
-<td align="center"><b>600+</b><br/>daily orders handled</td>
-<td align="center"><b>2.1GB → 170MB</b><br/>Docker image slimmed</td>
-<td align="center"><b>11s → 3s</b><br/>page load improved</td>
-<td align="center"><b>78%</b><br/>customer satisfaction (WebChat)</td>
-</tr>
-</table>
-
-- 🛒 **Rokomari Affiliate** — bootstrapped backend & frontend from scratch (NestJS, RabbitMQ, MongoDB); built the auth flow (access/refresh tokens, invalidation, concurrent request queueing); grew the program to 100K+ affiliates and 600+ daily orders, contributing a 13% sales lift.
-- 📢 **Rokomari Ads** — built automated ad placement, budget-based prioritization, and performance analytics for the internal ad platform.
-- ⚡ **Next.js Migration** — led the platform migration from a legacy jQuery frontend to Next.js; cut Docker images from 2.1GB to 170MB and page loads from 11s to 3s via lazy loading and SSR/CSR tuning.
-- 💬 **Rokomari WebChat** — built real-time customer chat on NestJS + Crisp API with an automated bot-reply layer and Redis caching, reaching 78% customer satisfaction.
 
 <br/>
 
@@ -93,35 +76,39 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bekon0700&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekon0700&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/3-stats.svg" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekon0700&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-summary/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+<img src="https://streak-stats.demolab.com/?user=Bekon0700&theme=tokyonight&hide_border=true" />
 
 </div>
+
+> Stat cards are generated daily by the GitHub Action in `.github/workflows/profile-summary.yml` and served from the `profile-summary` branch — no third-party uptime dependency. They appear after the workflow's first run.
 
 <br/>
 
-### 🏆 Trophies
+### 🧊 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bekon0700&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/profile-3d/profile-gitblock.svg" width="100%" />
 </div>
 
-<br/>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bekon0700&theme=react-dark&hide_border=true" width="100%"/>
-</div>
+> Generated automatically once a day by the GitHub Action in `.github/workflows/profile-3d.yml`. It appears after the workflow's first run.
 
 <br/>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/output/github-contribution-grid-snake.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bekon0700/Bekon0700/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekon0700/Bekon0700/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Bekon0700/Bekon0700/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 > Generated automatically once a day by the GitHub Action in `.github/workflows/snake.yml`. It starts showing a real snake after the workflow's first run.
