@@ -14,7 +14,7 @@
 
 - 💼 Software Engineer at **[Rokomari.com](https://www.rokomari.com/)** — Bangladesh's largest online bookstore & e-commerce platform, 3.5+ years and counting
 - 🚀 Started as a frontend fresher, grew into full-stack
-- 🛒 Bootstrapped the **Rokomari Affiliate** platform from scratch (NestJS, RabbitMQ, MongoDB) — grew it to **100K+ affiliates**, 600+ daily orders, and a **13% sales lift**
+- 🛒 Bootstrapped the **Rokomari Affiliate** platform from scratch (NestJS, RabbitMQ, MongoDB) — grew it to handle **100K+ affiliates**, 600+ daily orders, and a **13% sales lift**
 - ⚡ Led the **Next.js migration** off a legacy jQuery frontend — cut Docker images **2.1GB → 170MB** and page loads **11s → 3s**
 - 💬 Built **Rokomari WebChat** on NestJS + Crisp with an automated bot-reply layer, reaching 78% customer satisfaction
 - 🖥️ Daily stack: **Next.js**, **React**, **NestJS**, **MongoDB**, **Redis**, **RabbitMQ**, **Docker**
